@@ -42,11 +42,11 @@ const HeaderThree = () => {
                             <i className="fi fi-rr-user"></i>
                           </Link>
                         </li>
-                        <li>
+                        {/* <li>
                           <Link href="/cart" className="d-none d-md-block">
                             <i className="	 fi fi-rr-shopping-bag"></i>
                           </Link>
-                        </li>
+                        </li> */}
                         <li>
                           <a href="#" onClick={() => setIsActive(true)} className="tp-menu-toggle d-xl-none">
                             <i className="icon_ul"></i>

@@ -17,13 +17,13 @@ const  { students, review, pro_courses, title, des} = about_info
 
 const about_list_data = [
   {
-    name: "Create an E-Pora account",
+    name: "Create an EasyWisy account",
   },
   {
-    name: "Choose Your Perfect Courses",
+    name: "Choose Your Perfect Mentor",
   },
   {
-    name: "After Finished Courses, Get Certificate",
+    name: "After Finished Session, Get Success",
   },
 ];
 const AboutArea = ({style_about}) => {

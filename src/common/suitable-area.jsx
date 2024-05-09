@@ -17,7 +17,7 @@ const suitable_data = [
     id: 2,
     title: (
       <>
-        Do you want to <span>Learn</span> here?
+        Do you want to <span>Teach</span> here?
       </>
     ),
     des: <>Dramatically supply transpa deliverables before & you.</>,

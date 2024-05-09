@@ -37,7 +37,7 @@ const choose_data_3 = [
 
 // choose top data 
 const choose_top_data = {
-    title: "Why You Choose Our E-Pora Online learning",
+    title: "Why You Choose Our EasyWisy Platform?",
     des: <> Competently facilitate end-to-end testing procedure before
     customized applications. Interactively coordinate scalable.</>
 }

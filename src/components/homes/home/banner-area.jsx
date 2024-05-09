@@ -14,7 +14,7 @@ const BannerArea = () => {
               <div className="col-xl-6 col-lg-6 col-md-8">
                 <div className="hero-content hero-content-black">
                   <h2 className="hero-title-black mb-45">
-                    Online Learning Designed For <br />
+                    Online Mentoring Designed For <br />
                     Real Life
                   </h2>
                   <div className="hero-btn">

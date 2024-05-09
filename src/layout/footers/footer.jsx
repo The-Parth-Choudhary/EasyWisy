@@ -134,7 +134,7 @@ const FooterThree = () => {
           <div className="f-copyright pt-60 pb-40">
             <div className="container">
               <div className="row text-center text-lg-start">
-                <div className="col-xl-3 col-lg-3">
+                <div className="col-xl-2 col-lg-2">
                   <div className="f-copyright__logo mb-30">
                     <Link href="home-3">
                       <img src="/assets/img/logo/logo.png" alt="logo" />
