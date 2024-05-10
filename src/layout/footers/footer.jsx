@@ -131,7 +131,7 @@ const FooterThree = () => {
               </div>
             </div>
           </div>
-          <div className="f-copyright pt-60 pb-40">
+          <div className="f-copyright pt-30">
             <div className="container">
               <div className="row text-center text-lg-start">
                 <div className="col-xl-2 col-lg-2">

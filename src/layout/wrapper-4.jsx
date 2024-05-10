@@ -8,7 +8,7 @@ const WrapperFour = ({ children }) => {
   useEffect(() => {
     setTimeout(() => {
       animationCreate();
-    }, 500);
+    }, 0);
   }, []);
 
   return (

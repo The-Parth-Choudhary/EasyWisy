@@ -21,6 +21,9 @@ const BannerArea = () => {
                     <Link href="/course-list" className="tp-btn">
                       All Courses
                     </Link>
+                    <Link href="https://forms.gle/STyLgkCkoZgxX5v67" target="" className="tp-btn ml-35">
+                      Register
+                    </Link>
                   </div>
                 </div>
               </div>
