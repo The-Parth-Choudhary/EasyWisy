@@ -26,12 +26,13 @@ A brief description of your website.
 
 ## Usage
 
-1. Run the application: `npm start`
+1. Run the application: `npm run dev`
 2. Open your browser and visit `http://localhost:3000`
 
 ## Contributing
 
 Contributions are welcome! Please follow these guidelines when contributing:
+
 - Fork the repository
 - Create a new branch: `git checkout -b feature/your-feature`
 - Commit your changes: `git commit -am 'Add some feature'`

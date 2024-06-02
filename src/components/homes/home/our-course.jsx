@@ -129,7 +129,7 @@ const OurCourse = () => {
                               <i className="fi fi-rr-heart"></i>
                             </Link>
                           </div>
-                          <div className="tpcourse__img-icon">
+                          <div className="tpcourse__img-icon w-25 h-25 circle overflow-hidden">
                             <img src={item.icon} alt={item.title} />
                           </div>
                         </div>
