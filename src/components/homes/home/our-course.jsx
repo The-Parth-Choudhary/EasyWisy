@@ -189,7 +189,7 @@ const OurCourse = () => {
                             </div>
                             <div className="tpcourse__pricing">
                               <h5 className="price-title">
-                                ${item.course_price}
+                                Rs. {item.course_price}/-
                               </h5>
                             </div>
                           </div>
@@ -279,7 +279,7 @@ const OurCourse = () => {
                             </div>
                             <div className="tpcourse__pricing">
                               <h5 className="price-title">
-                                ${item.course_price}
+                                Rs. {item.course_price}/-
                               </h5>
                             </div>
                           </div>
@@ -369,7 +369,7 @@ const OurCourse = () => {
                             </div>
                             <div className="tpcourse__pricing">
                               <h5 className="price-title">
-                                ${item.course_price}
+                                Rs. {item.course_price}/-
                               </h5>
                             </div>
                           </div>
@@ -548,7 +548,7 @@ const OurCourse = () => {
                             </div>
                             <div className="tpcourse__pricing">
                               <h5 className="price-title">
-                                ${item.course_price}
+                                Rs. {item.course_price}/-
                               </h5>
                             </div>
                           </div>
@@ -638,7 +638,7 @@ const OurCourse = () => {
                             </div>
                             <div className="tpcourse__pricing">
                               <h5 className="price-title">
-                                ${item.course_price}
+                                Rs. {item.course_price}/-
                               </h5>
                             </div>
                           </div>

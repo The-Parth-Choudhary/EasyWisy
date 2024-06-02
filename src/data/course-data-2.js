@@ -10,7 +10,7 @@ const course_data_2 =[
         course_title: "Design",
         course_link: "/course-details",
         course_name: "Development",
-        course_price: "29.99",
+        course_price: "7000",
     },
     {
         id: 2, 
@@ -22,7 +22,7 @@ const course_data_2 =[
         course_title: "Design",
         course_link: "/course-details",
         course_name: "Development",
-        course_price: "29.99",
+        course_price: "7000",
     },
     {
         id: 3, 
@@ -34,7 +34,7 @@ const course_data_2 =[
         course_title: "Design",
         course_link: "/course-details",
         course_name: "Development",
-        course_price: "29.99",
+        course_price: "700",
     },
     {
         id: 4, 

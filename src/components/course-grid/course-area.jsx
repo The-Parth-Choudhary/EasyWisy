@@ -34,8 +34,8 @@ const CourseArea = () => {
                         <i className="fi fi-rr-heart"></i>
                       </Link>
                     </div>
-                    <div className="tpcourse__img-icon">
-                      <img src={item.icon} alt="course-avata" />
+                    <div className="tpcourse__img-icon w-25 h-25 circle overflow-hidden">
+                      <img src={item.icon} alt="course-avata" className="" />
                     </div>
                   </div>
                   <div className="tpcourse__content-2">
@@ -93,7 +93,7 @@ const CourseArea = () => {
                         <p>(125)</p>
                       </div>
                       <div className="tpcourse__pricing">
-                        <h5 className="price-title">$29.99</h5>
+                        <h5 className="price-title">Rs. 7000/-</h5>
                       </div>
                     </div>
                   </div>

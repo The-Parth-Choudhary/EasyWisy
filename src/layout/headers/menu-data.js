@@ -30,17 +30,13 @@ const menu_data = [
 //       { link: "/instructor-profile", title: "Instructor Profile" },
 //     ],
 //   },
-//   {
-//     id: 4,
-//     title: "Course",
-//     link: "/course-grid",
-//     has_dropdown: true,
-//     sub_menus: [
-//       { link: "/course-grid", title: "Course Grid" },
-//       { link: "/course-list", title: "Course List" },
-//       { link: "/course-details", title: "Course Details" },
-//     ],
-//   },
+  {
+    id: 4,
+    title: "Course",
+    link: "/course-grid",
+    has_dropdown: false,
+    sub_menus: [],
+  },
 //   {
 //     id: 5,
 //     title: "Blog",
