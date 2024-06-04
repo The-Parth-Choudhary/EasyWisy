@@ -1,10 +1,12 @@
 {
   "name": "easywisy",
+  "homepage": "https://easywisy.com/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
     "lint": "next lint"
   },
