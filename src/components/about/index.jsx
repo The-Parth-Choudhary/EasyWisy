@@ -13,7 +13,7 @@ import Breadcrumb from "../bredcrumb/breadcrumb";
 const About = () => {
   return (
     <>
-      <Breadcrumb title="About Us" subtitle="About Us" isDbbl="Pages"  />
+      <Breadcrumb title="About Us" subtitle="About Us" isDbbl="Pages" />
       <FeatureArea style_about={true} />
       <AboutArea style_about={true} />
       <BrandArea style_about={true} />
